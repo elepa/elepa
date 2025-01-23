@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hola! Soy Elena   👋
+### Front-end developer Angular
+Soy ingeniera de software y me he dedicado a la informàtica en varias áreas trabajando en distintas empresas del sector.
+ ![https://github.com/elepa](./elepa_github_profile.png)
+
+## Skills
+![Html5](https://img.shields.io/badge/Html5-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
+![Javascript](https://img.shields.io/badge/Javascript-3DDC84?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![Angular](https://img.shields.io/badge/Angular-3DDC84?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)</br>
+![ÇSS3](https://img.shields.io/badge/Css3-3DDC84?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
+![COBOL](https://img.shields.io/badge/Cobol-3DDC84?style=for-the-badge&logo=cobol&logoColor=white&labelColor=101010)</br>
 
 <!--
 **elepa/elepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
