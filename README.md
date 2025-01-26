@@ -1,7 +1,7 @@
 ## Hola! Hi!... soy Elena   👋
 ### I studied Computer Science 🔭 but i am always learning like the real life.🌱
  
- ![https://github.com/elepa]
+ [https://github.com/elepa]
 
 ## Skills
 ![Html5](https://img.shields.io/badge/Html5-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
