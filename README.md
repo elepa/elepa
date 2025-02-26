@@ -1,9 +1,19 @@
 ## Hola! Hi!... soy Elena   👋
 🎓  I studied Computer Science  but i am always studing and learning like the real life 🔭
 ## Skills
-<p align="center">
+<p align="center"><h4>Diseño</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,angular,npm,php,react,visualstudio,vscode,postman,git,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=css,sass,bootstrap,figma" />
+  </a>
+</p>
+<p align="center"> <h4>Codigo</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,angular,npm,php,react" />
+  </a>
+</p>
+<p align="center"><h4>Herramientas</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,mysql" />
   </a>
 </p>
 
