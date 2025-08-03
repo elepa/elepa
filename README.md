@@ -22,13 +22,13 @@
 
 [![Email](https://img.shields.io/badge/Email-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://outlook.office365.com/mail/)
 
-
+<!--
 ## Social
 <p align="left">
 <a href="https://www.github.com/elepa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!--
+
 **elepa/elepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
