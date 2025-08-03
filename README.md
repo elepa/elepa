@@ -1,5 +1,5 @@
 ## Hola! soy Elena   👋
-🎓 Estudie informática siempre me han apasionado las tecnologias y lo que podemos hacer gracias a ellas, por eso creo que siempre hay que estar aprendiendo cosas innovando y descubriendo como la vida misma.... 🔭 
+🎓 Ing Informatica aprendiendo cosas, innovando y descubriendo como la vida misma.... 🔭 
 ## Skills / Habilidades
 <p align="center"><h4>Diseño</h4>
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
 <a href="https://www.github.com/elepa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+<!--
 **elepa/elepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <a href="https://www.linkedin.com/in/ele,,,/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+-->
